@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>你好</h1>
-    <img src="image/1.png" alt="壁纸" title="测试的" height="500">
+    <img src="TD's/image/1.png" alt="壁纸" title="测试的" height="500">
 </body>
 </html>
